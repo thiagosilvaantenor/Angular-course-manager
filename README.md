@@ -76,13 +76,14 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## Agradecimentos
 Agradeço a [DIO](https://github.com/digitalinnovationone) - Digital Inovation One
-E a [Wesllhey Holanda](https://github.com/wesllhey)
+
+E também ao [Wesllhey Holanda](https://github.com/wesllhey)
 
 ## Autor
 <div align="center">
 <a href="https://www.linkedin.com/in/thiago-antenor/">
  <img style="border-radius: 100%;" src="https://media-exp1.licdn.com/dms/image/D4D35AQGU7QkIH8rOnQ/profile-framedphoto-shrink_200_200/0/1648653971985?e=1660446000&v=beta&t=od48Huc8o9CxsVZ5upw1bVTtwGbGtlGWoL0x_tUo3Sg" width="100px;" alt=""/>
- <br />
+ <br/>
  <sub><b>Thiago Silva Antenor</b></sub></a> <a href="https://www.linkedin.com/in/thiago-antenor/" title="Linkedin"> 🧑🏾‍💻</a>
 
 
