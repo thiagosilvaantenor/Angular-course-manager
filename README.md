@@ -3,20 +3,20 @@
 
 Minha primeira Aplicação em angular, realizada junto com o curso Introdução ao Angular 8 da DIO - Digital Inovation One, ministrado por [Wesllhey Holanda](https://github.com/wesllhey).
 
-Se trata de um gerenciador de cursos, utilizando de uma Aplicação em angular e 
+Se trata de um gerenciador de cursos, utilizando de uma Aplicação em angular com bootstrap e 
 um servidor local com as informações dos cursos.
 
 Repositorio original: https://github.com/wesllhey/course-manager
 
 
-# Indice
+# Índice
 =================
 <!--ts-->
    * [Titulo](#angular-course-manager)
-   * [Indice](#indice)
+   * [Índice](#índice)
    * [Funcionalidades](#funcionalidades)
    * [Instalação](#instalação)
-      * [Pre Requisitos](#pre-requisitos)
+      * [Pré Requisitos](#pré-requisitos)
       * [Abrir e rodar o projeto](#abrir-e-rodar-o-projeto)
    * [Tecnologias 🛠](#tecnologias)
    * [Agradecimentos](#agradecimentos)
@@ -27,21 +27,23 @@ Repositorio original: https://github.com/wesllhey/course-manager
 ## Funcionalidades
 
 - Editar Cursos
-    
+ <img src="https://media.giphy.com/media/RTpsVjLhrKPgWRLtzS/giphy.gif">
     
 - Excluir Cursos
 
+<img src="https://media.giphy.com/media/VhUsqKsEdE1nc5CaLs/giphy.gif">
 
 - Pesquisar Cursos
 
+<img src="https://media.giphy.com/media/QkdpGR7CSUTuwgTlV2/giphy.gif">
 
 ## Instalação
 
-## Pre requisitos:
+## Pré Requisitos:
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 * [VSCode](https://code.visualstudio.com/)
 * [NODE](https://nodejs.org/pt-br/)
-* [ANGULAR CLI 8.3.18](https://github.com/angular/angular-cli)
+* [ANGULAR CLI 14.1.1](https://github.com/angular/angular-cli)
 
 ## Abrir e rodar o projeto
 
@@ -60,7 +62,7 @@ sem as aspas e substituindo a parte inicial com o local de instalação.
 
 Com o nodejs instalado, abra um terminal no VSCode e instale as dependencias do projeto, utilizando o comando: "npm install", sem as aspas.
 
-Por fim, com o Angular CLI instalado, use o comando "ng serve" sem aspas, a Aplicacao está rodando, por padrão ela pode ser visualizada em http://localhost:4200/
+Por fim, com o Angular CLI instalado, use o comando "ng serve" sem aspas, a Aplicacao está rodando, por padrão ela pode ser visualizada em http://localhost:4200/courses
 
 
 ## Tecnologias 
@@ -69,13 +71,13 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 
 - [Node.js](https://nodejs.org/en/)
-- [Angular CLI](https://github.com/angular/angular-cli)
+- [Angular CLI 14.1.1](https://github.com/angular/angular-cli)
 - [Typescript](https://www.typescriptlang.org/)
 - [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [Bootstrap](https://getbootstrap.com)
 
 ## Agradecimentos
-Agradeço a [DIO](https://github.com/digitalinnovationone) - Digital Inovation One
+Agradeço à plataforma [DIO](https://github.com/digitalinnovationone) - Digital Inovation One
 
 E também ao [Wesllhey Holanda](https://github.com/wesllhey)
 
